@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyecto\\TransitoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\multadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\multadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\unidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\tipoinfraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\tipoinfraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\propiedadvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\propiedadvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\historialestadomulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\historialestadomulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\aplicacionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\aplicacionpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\domain\\entities\\agente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:domain\\entities\\agente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\transitodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:transitodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\infrastructure\\data\\transitodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:infrastructure\\data\\transitodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\presentation\\security\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:presentation\\security\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\transitodb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:transitodb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|c:\\proyecto\\transitodb\\presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{988A0219-AE6F-4D21-9FD6-1D4523DCCD7F}|TransitoDB.csproj|solutionrelative:presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:02:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Vehiculo.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Vehiculo.cs",
+              "RelativeToolTip": "Domain\\Entities\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:59:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unidad.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Unidad.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Unidad.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Unidad.cs",
+              "RelativeToolTip": "Domain\\Entities\\Unidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:59:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoInfraccion.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\TipoInfraccion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TipoInfraccion.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\TipoInfraccion.cs",
+              "RelativeToolTip": "Domain\\Entities\\TipoInfraccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:58:38.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropiedadVehiculo.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\PropiedadVehiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PropiedadVehiculo.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\PropiedadVehiculo.cs",
+              "RelativeToolTip": "Domain\\Entities\\PropiedadVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:58:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:56:52.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Pago.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Pago.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Pago.cs",
+              "RelativeToolTip": "Domain\\Entities\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:56:13.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultaDetalle.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\MultaDetalle.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\MultaDetalle.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\MultaDetalle.cs",
+              "RelativeToolTip": "Domain\\Entities\\MultaDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:55:40.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Multa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Multa.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Multa.cs",
+              "RelativeToolTip": "Domain\\Entities\\Multa.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:54:20.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistorialEstadoMulta.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\HistorialEstadoMulta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\HistorialEstadoMulta.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\HistorialEstadoMulta.cs",
+              "RelativeToolTip": "Domain\\Entities\\HistorialEstadoMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:53:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Conductor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Conductor.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Conductor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:45:07.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Cargo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cargo.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Cargo.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:44:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AplicacionPago.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\AplicacionPago.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AplicacionPago.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\AplicacionPago.cs",
+              "RelativeToolTip": "Domain\\Entities\\AplicacionPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:44:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Agente.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Agente.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Agente.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Agente.cs",
+              "RelativeToolTip": "Domain\\Entities\\Agente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:44:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransitoDB",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\TransitoDB.csproj",
+              "RelativeDocumentMoniker": "TransitoDB.csproj",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\TransitoDB.csproj",
+              "RelativeToolTip": "TransitoDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T18:38:55.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Presentation\\Security\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Security\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Presentation\\Security\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "Presentation\\Security\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:28:17.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Domain\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Domain\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:25:06.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T22:46:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransitoDB.http",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\TransitoDB.http",
+              "RelativeDocumentMoniker": "TransitoDB.http",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\TransitoDB.http",
+              "RelativeToolTip": "TransitoDB.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-30T22:43:41.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T22:39:38.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransitoDbContext.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Infrastructure\\Data\\TransitoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\TransitoDbContext.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Infrastructure\\Data\\TransitoDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\TransitoDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wCgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:34:25.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyecto\\TransitoDB\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Proyecto\\TransitoDB\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:26:17.344Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

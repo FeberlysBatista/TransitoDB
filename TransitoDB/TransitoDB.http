@@ -1,0 +1,6 @@
+@TransitoDB_HostAddress = http://localhost:5286
+
+GET {{TransitoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

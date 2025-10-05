@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sistema CRUD - API Manager</title>
+    <link rel="stylesheet" href="css/datatable.css" /> 
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body class="bg-gray-100">
+    <!-- Menu -->
+    <div
+      class="sidebar fixed left-0 top-0 h-full w-64 bg-gray-800 text-white shadow-lg z-50"
+    >
+      <div class="p-6">
+        <h1 class="text-2xl font-bold mb-8">Transito</h1>
+        <nav>
+          <a
+            href="#"
+            data-section="dashboard"
+            class="menu-item block py-3 px-4 rounded hover:bg-gray-700 mb-2"
+            >Dashboard</a
+          >
+          <a
+            href="#"
+            data-section="multas"
+            class="menu-item block py-3 px-4 rounded hover:bg-gray-700 mb-2"
+            >Multas</a
+          >
+          <a
+            href="#"
+            data-section="conductor"
+            class="menu-item block py-3 px-4 rounded hover:bg-gray-700 mb-2"
+            >Conductor</a
+          >
+          <a
+            href="#"
+            data-section="agentes"
+            class="menu-item block py-3 px-4 rounded hover:bg-gray-700 mb-2"
+            >Agentes</a
+          >
+          <a
+            href="#"
+            data-section="usuarios"
+            class="menu-item block py-3 px-4 rounded hover:bg-gray-700 mb-2 bg-gray-700"
+            >Usuarios</a
+          >
+        </nav>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="ml-64 p-8">
+      <!-- Header -->
+      <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+        <div class="flex justify-between items-center">
+          <h2 id="section-title" class="text-3xl font-bold text-gray-800">
+            Gestión de Usuarios
+          </h2>
+          <button
+            id="btn-nuevo"
+            class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition"
+          >
+            + Nuevo Registro
+          </button>
+        </div>
+      </div>
+
+      <!-- Table Container -->
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <table id="dataTable" class="display w-full">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Nombre</th>
+              <th>Email</th>
+              <th>Estado</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div
+      id="modal"
+      class="modal fixed inset-0 bg-black bg-opacity-50 items-center justify-center z-50"
+    >
+      <div class="bg-white rounded-lg shadow-xl w-full max-w-md p-6">
+        <div class="flex justify-between items-center mb-4">
+          <h3 id="modal-title" class="text-xl font-bold">Nuevo Registro</h3>
+          <button
+            id="btn-cerrar"
+            class="text-gray-500 hover:text-gray-700 text-2xl"
+          >
+            &times;
+          </button>
+        </div>
+        <form id="formulario">
+          <input type="hidden" id="record-id" />
+          <div class="mb-4">
+            <label class="block text-gray-700 mb-2">Nombre</label>
+            <input
+              type="text"
+              id="nombre"
+              class="w-full border rounded px-3 py-2"
+              required
+            />
+          </div>
+          <div class="mb-4">
+            <label class="block text-gray-700 mb-2">Email</label>
+            <input
+              type="email"
+              id="email"
+              class="w-full border rounded px-3 py-2"
+              required
+            />
+          </div>
+          <div class="mb-4">
+            <label class="block text-gray-700 mb-2">Estado</label>
+            <select id="estado" class="w-full border rounded px-3 py-2">
+              <option value="activo">Activo</option>
+              <option value="inactivo">Inactivo</option>
+            </select>
+          </div>
+          <div class="flex gap-2">
+            <button
+              type="submit"
+              class="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-2 rounded transition"
+            >
+              Guardar
+            </button>
+            <button
+              type="button"
+              id="btn-cancelar"
+              class="flex-1 bg-gray-300 hover:bg-gray-400 text-gray-800 py-2 rounded transition"
+            >
+              Cancelar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <!-- Scripts Comunes-->
+    <script src="js/common/jquery.js"></script>
+    <script src="js/common/datatable.js"></script>
+    <script src="js/common/tailwind.js"></script>
+
+    <!-- FIN Scripts Comunes-->
+    <!-- Scripts Comunes-->
+
+    <!-- Scripts solo del modulo-->
+    <script src="js/common/config.js"></script>
+    <script src="js/modules/users/index.js"></script>
+    <!-- FIN Scripts solo del modulo-->
+  </body>
+</html>
